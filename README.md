@@ -9,6 +9,7 @@ The Product Analysis focuses on understanding how individual products and catego
 
 The Demand Analysis examines seasonal patterns and demand behavior over time. By analyzing monthly sales trends and category-level demand, the project identifies clear seasonality in toy sales, with peak demand occurring during specific months. This analysis helps understand how customer demand changes throughout the year and supports better demand forecasting and planning.
 
+[Click here to view Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=1a860e17-734c-4f61-9303-3667ba84567b&autoAuth=true&ctid=3ffff7b6-7ef4-4fa4-8fea-798ab0455714)
 
 ## About the company:
 Maven Toys is a fictitious retail toy store chain operating across multiple cities in Mexico. The company sells a wide range of toy products across categories such as Art & Crafts, Toys, Games, Sports & Outdoors, and Electronics. The dataset captures daily sales transactions, product details, and calendar information, enabling detailed analysis of sales performance, product contribution, and demand patterns.
